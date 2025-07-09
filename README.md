@@ -18,7 +18,7 @@ A simple React shopping cart app that fetches products from Redux state, allows 
 
 ## Demo
 
-![Demo Screenshot](./screenshot.png)
+![Demo Screenshot](/public/screenshot.png)
 
 ---
 
